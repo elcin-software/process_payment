@@ -4,7 +4,7 @@ To test this project you need instal the "install_requirements.txt"
 
 Then, to test the project, clone this repo and write your terminal step by step:
 
-git clone https://github.com/elcin-software/process_payment.git
+"git clone https://github.com/elcin-software/process_payment.git"
 
 
 
